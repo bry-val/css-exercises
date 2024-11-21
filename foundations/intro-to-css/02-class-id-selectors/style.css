@@ -1,0 +1,18 @@
+.red {
+    background-color: indianred;
+    font-family: Verdana, "DevaVu Sans", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color:chartreuse;
+    font-weight: bold;
+}
